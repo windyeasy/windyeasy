@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <samp>
+    <a href="https://windyeasy.github.io/">my website.</a> 
+  </samp>
+</p>
